@@ -1,24 +1,12 @@
-# project5-shopping-bag-finished
+<h1 align="center">Shopping Bag</h1>
 
-## Project setup
-```
-yarn install
-```
+## :computer: Projeto
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Repositório de uma aplicação web para simular uma loja virtual.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## :floppy_disk: Clonar repositório
 
-### Lints and fixes files
-```
-yarn lint
-```
+```git clone https://github.com/PauloAlves8039/vue-quiz-game.git```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
